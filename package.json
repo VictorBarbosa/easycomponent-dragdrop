@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "author": {
     "name": "Victor Barbosa",
-    "email": "victor.hugo.p.barbosa@hotmail.com"},
+    "email": "victor.hugo.p.barbosa@hotmail.com",
+    "url": "git+https://github.com/VictorBarbosa/easycomponent-dragdrop.git"
+  },
   "peerDependencies": {
     "@angular/common": "^7.0.0",
     "@angular/core": "^7.0.0"
-
   }
 }
