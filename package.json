@@ -1,9 +1,9 @@
 {
   "name": "easycomponent-dragdrop",
-  "version": "1.0.0",
+  "version": "1.0.9",
   "author": {
     "name": "Victor Barbosa",
-    "email": "victor.hugo.p.barbosa@hotmail.com",
+
     "url": "git+https://github.com/VictorBarbosa/easycomponent-dragdrop.git"
   },
   "peerDependencies": {

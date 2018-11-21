@@ -8,7 +8,7 @@ interface Position {
 }
 
 @Directive({
-  selector: '[easyMovable]'
+  selector: '[easyDrag]'
 })
 export class MovableDirective extends DraggableDirective {
   @HostBinding('style.transform') get transform(): SafeStyle {
