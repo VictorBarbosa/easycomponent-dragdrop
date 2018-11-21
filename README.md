@@ -16,9 +16,6 @@ See the step by step to use the Drag 'n Drop
 ![Screenshot](documentation/3-step.png)
 
 4- Voila !!
-![Screenshot](documentation/4-step.png)
-![Screenshot](documentation/5-step.png)
-
 --------------------------------------
 
 ![Screenshot](documentation/6-step.gif)
