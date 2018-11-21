@@ -11,7 +11,7 @@ See the step by step to use the Drag 'n Drop
 
 ![Screenshot](documentation/2-step.png)
 
-3- Now , in the html tag just add the directive easyMovable 
+3- Now , in the html tag just add the directive easyDrag 
 
 ![Screenshot](documentation/3-step.png)
 
